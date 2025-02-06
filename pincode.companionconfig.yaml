@@ -1,0 +1,1345 @@
+version: 4
+type: full
+pages:
+  "1":
+    name: "1"
+    controls:
+      "0":
+        "0":
+          type: button
+          style:
+            text: P
+            textExpression: false
+            size: auto
+            png64: null
+            alignment: center:center
+            pngalignment: center:center
+            color: 16777215
+            bgcolor: 0
+            show_topbar: default
+          options:
+            relativeDelay: false
+            rotaryActions: false
+            stepAutoProgress: true
+          feedbacks: []
+          steps:
+            "0":
+              action_sets:
+                down: []
+                up: []
+              options:
+                runWhileHeld: []
+        "1":
+          type: button
+          style:
+            text: A
+            textExpression: false
+            size: auto
+            png64: null
+            alignment: center:center
+            pngalignment: center:center
+            color: 16777215
+            bgcolor: 0
+            show_topbar: default
+          options:
+            relativeDelay: false
+            rotaryActions: false
+            stepAutoProgress: true
+          feedbacks: []
+          steps:
+            "0":
+              action_sets:
+                down: []
+                up: []
+              options:
+                runWhileHeld: []
+        "2":
+          type: button
+          style:
+            text: G
+            textExpression: false
+            size: auto
+            png64: null
+            alignment: center:center
+            pngalignment: center:center
+            color: 16777215
+            bgcolor: 0
+            show_topbar: default
+          options:
+            relativeDelay: false
+            rotaryActions: false
+            stepAutoProgress: true
+          feedbacks: []
+          steps:
+            "0":
+              action_sets:
+                down: []
+                up: []
+              options:
+                runWhileHeld: []
+        "3":
+          type: button
+          style:
+            text: E
+            textExpression: false
+            size: auto
+            png64: null
+            alignment: center:center
+            pngalignment: center:center
+            color: 16777215
+            bgcolor: 0
+            show_topbar: default
+          options:
+            relativeDelay: false
+            rotaryActions: false
+            stepAutoProgress: true
+          feedbacks: []
+          steps:
+            "0":
+              action_sets:
+                down: []
+                up: []
+              options:
+                runWhileHeld: []
+      "1":
+        "1":
+          type: button
+          style:
+            text: $(internal:page_number_1_name)
+            textExpression: false
+            size: auto
+            png64: null
+            alignment: center:center
+            pngalignment: center:center
+            color: 16777215
+            bgcolor: 0
+            show_topbar: default
+          options:
+            relativeDelay: false
+            rotaryActions: false
+            stepAutoProgress: true
+          feedbacks: []
+          steps:
+            "0":
+              action_sets:
+                down: []
+                up: []
+              options:
+                runWhileHeld: []
+    gridSize: &a1
+      minRow: 0
+      maxRow: 7
+      minColumn: 0
+      maxColumn: 19
+  "2":
+    name: "2"
+    controls:
+      "0":
+        "0":
+          type: button
+          style:
+            text: P
+            textExpression: false
+            size: auto
+            png64: null
+            alignment: center:center
+            pngalignment: center:center
+            color: 16777215
+            bgcolor: 0
+            show_topbar: default
+          options:
+            relativeDelay: false
+            rotaryActions: false
+            stepAutoProgress: true
+          feedbacks: []
+          steps:
+            "0":
+              action_sets:
+                down: []
+                up: []
+              options:
+                runWhileHeld: []
+        "1":
+          type: button
+          style:
+            text: A
+            textExpression: false
+            size: auto
+            png64: null
+            alignment: center:center
+            pngalignment: center:center
+            color: 16777215
+            bgcolor: 0
+            show_topbar: default
+          options:
+            relativeDelay: false
+            rotaryActions: false
+            stepAutoProgress: true
+          feedbacks: []
+          steps:
+            "0":
+              action_sets:
+                down: []
+                up: []
+              options:
+                runWhileHeld: []
+        "2":
+          type: button
+          style:
+            text: G
+            textExpression: false
+            size: auto
+            png64: null
+            alignment: center:center
+            pngalignment: center:center
+            color: 16777215
+            bgcolor: 0
+            show_topbar: default
+          options:
+            relativeDelay: false
+            rotaryActions: false
+            stepAutoProgress: true
+          feedbacks: []
+          steps:
+            "0":
+              action_sets:
+                down: []
+                up: []
+              options:
+                runWhileHeld: []
+        "3":
+          type: button
+          style:
+            text: E
+            textExpression: false
+            size: auto
+            png64: null
+            alignment: center:center
+            pngalignment: center:center
+            color: 16777215
+            bgcolor: 0
+            show_topbar: default
+          options:
+            relativeDelay: false
+            rotaryActions: false
+            stepAutoProgress: true
+          feedbacks: []
+          steps:
+            "0":
+              action_sets:
+                down: []
+                up: []
+              options:
+                runWhileHeld: []
+      "1":
+        "1":
+          type: button
+          style:
+            text: $(internal:page_number_2_name)
+            textExpression: false
+            size: auto
+            png64: null
+            alignment: center:center
+            pngalignment: center:center
+            color: 16777215
+            bgcolor: 0
+            show_topbar: default
+          options:
+            relativeDelay: false
+            rotaryActions: false
+            stepAutoProgress: true
+          feedbacks: []
+          steps:
+            "0":
+              action_sets:
+                down: []
+                up: []
+              options:
+                runWhileHeld: []
+    gridSize: *a1
+  "3":
+    name: "3"
+    controls:
+      "0":
+        "0":
+          type: button
+          style:
+            text: P
+            textExpression: false
+            size: auto
+            png64: null
+            alignment: center:center
+            pngalignment: center:center
+            color: 16777215
+            bgcolor: 0
+            show_topbar: default
+          options:
+            relativeDelay: false
+            rotaryActions: false
+            stepAutoProgress: true
+          feedbacks: []
+          steps:
+            "0":
+              action_sets:
+                down: []
+                up: []
+              options:
+                runWhileHeld: []
+        "1":
+          type: button
+          style:
+            text: A
+            textExpression: false
+            size: auto
+            png64: null
+            alignment: center:center
+            pngalignment: center:center
+            color: 16777215
+            bgcolor: 0
+            show_topbar: default
+          options:
+            relativeDelay: false
+            rotaryActions: false
+            stepAutoProgress: true
+          feedbacks: []
+          steps:
+            "0":
+              action_sets:
+                down: []
+                up: []
+              options:
+                runWhileHeld: []
+        "2":
+          type: button
+          style:
+            text: G
+            textExpression: false
+            size: auto
+            png64: null
+            alignment: center:center
+            pngalignment: center:center
+            color: 16777215
+            bgcolor: 0
+            show_topbar: default
+          options:
+            relativeDelay: false
+            rotaryActions: false
+            stepAutoProgress: true
+          feedbacks: []
+          steps:
+            "0":
+              action_sets:
+                down: []
+                up: []
+              options:
+                runWhileHeld: []
+        "3":
+          type: button
+          style:
+            text: E
+            textExpression: false
+            size: auto
+            png64: null
+            alignment: center:center
+            pngalignment: center:center
+            color: 16777215
+            bgcolor: 0
+            show_topbar: default
+          options:
+            relativeDelay: false
+            rotaryActions: false
+            stepAutoProgress: true
+          feedbacks: []
+          steps:
+            "0":
+              action_sets:
+                down: []
+                up: []
+              options:
+                runWhileHeld: []
+      "1":
+        "1":
+          type: button
+          style:
+            text: $(internal:page_number_3_name)
+            textExpression: false
+            size: auto
+            png64: null
+            alignment: center:center
+            pngalignment: center:center
+            color: 16777215
+            bgcolor: 0
+            show_topbar: default
+          options:
+            relativeDelay: false
+            rotaryActions: false
+            stepAutoProgress: true
+          feedbacks: []
+          steps:
+            "0":
+              action_sets:
+                down: []
+                up: []
+              options:
+                runWhileHeld: []
+    gridSize: *a1
+  "4":
+    name: "4"
+    controls:
+      "0":
+        "0":
+          type: button
+          style:
+            text: P
+            textExpression: false
+            size: auto
+            png64: null
+            alignment: center:center
+            pngalignment: center:center
+            color: 16777215
+            bgcolor: 0
+            show_topbar: default
+          options:
+            relativeDelay: false
+            rotaryActions: false
+            stepAutoProgress: true
+          feedbacks: []
+          steps:
+            "0":
+              action_sets:
+                down: []
+                up: []
+              options:
+                runWhileHeld: []
+        "1":
+          type: button
+          style:
+            text: A
+            textExpression: false
+            size: auto
+            png64: null
+            alignment: center:center
+            pngalignment: center:center
+            color: 16777215
+            bgcolor: 0
+            show_topbar: default
+          options:
+            relativeDelay: false
+            rotaryActions: false
+            stepAutoProgress: true
+          feedbacks: []
+          steps:
+            "0":
+              action_sets:
+                down: []
+                up: []
+              options:
+                runWhileHeld: []
+        "2":
+          type: button
+          style:
+            text: G
+            textExpression: false
+            size: auto
+            png64: null
+            alignment: center:center
+            pngalignment: center:center
+            color: 16777215
+            bgcolor: 0
+            show_topbar: default
+          options:
+            relativeDelay: false
+            rotaryActions: false
+            stepAutoProgress: true
+          feedbacks: []
+          steps:
+            "0":
+              action_sets:
+                down: []
+                up: []
+              options:
+                runWhileHeld: []
+        "3":
+          type: button
+          style:
+            text: E
+            textExpression: false
+            size: auto
+            png64: null
+            alignment: center:center
+            pngalignment: center:center
+            color: 16777215
+            bgcolor: 0
+            show_topbar: default
+          options:
+            relativeDelay: false
+            rotaryActions: false
+            stepAutoProgress: true
+          feedbacks: []
+          steps:
+            "0":
+              action_sets:
+                down: []
+                up: []
+              options:
+                runWhileHeld: []
+      "1":
+        "1":
+          type: button
+          style:
+            text: $(internal:page_number_4_name)
+            textExpression: false
+            size: auto
+            png64: null
+            alignment: center:center
+            pngalignment: center:center
+            color: 16777215
+            bgcolor: 0
+            show_topbar: default
+          options:
+            relativeDelay: false
+            rotaryActions: false
+            stepAutoProgress: true
+          feedbacks: []
+          steps:
+            "0":
+              action_sets:
+                down: []
+                up: []
+              options:
+                runWhileHeld: []
+    gridSize: *a1
+  "5":
+    name: PINCODEPAGE
+    controls:
+      "2":
+        "0":
+          type: button
+          style:
+            text: $(internal:custom_pin_pos1)
+            textExpression: false
+            size: auto
+            png64: null
+            alignment: center:center
+            pngalignment: center:center
+            color: 16777215
+            bgcolor: 0
+            show_topbar: default
+          options:
+            relativeDelay: false
+            rotaryActions: false
+            stepAutoProgress: true
+          feedbacks: []
+          steps:
+            "0":
+              action_sets:
+                down: []
+                up: []
+              options:
+                runWhileHeld: []
+        "1":
+          type: button
+          style:
+            text: $(internal:custom_pin_pos2)
+            textExpression: false
+            size: auto
+            png64: null
+            alignment: center:center
+            pngalignment: center:center
+            color: 16777215
+            bgcolor: 0
+            show_topbar: default
+          options:
+            relativeDelay: false
+            rotaryActions: false
+            stepAutoProgress: true
+          feedbacks: []
+          steps:
+            "0":
+              action_sets:
+                down: []
+                up: []
+              options:
+                runWhileHeld: []
+        "2":
+          type: button
+          style:
+            text: $(internal:custom_pin_pos3)
+            textExpression: false
+            size: auto
+            png64: null
+            alignment: center:center
+            pngalignment: center:center
+            color: 16777215
+            bgcolor: 0
+            show_topbar: default
+          options:
+            relativeDelay: false
+            rotaryActions: false
+            stepAutoProgress: true
+          feedbacks: []
+          steps:
+            "0":
+              action_sets:
+                down: []
+                up: []
+              options:
+                runWhileHeld: []
+        "3":
+          type: button
+          style:
+            text: $(internal:custom_pin_pos4)
+            textExpression: false
+            size: auto
+            png64: null
+            alignment: center:center
+            pngalignment: center:center
+            color: 16777215
+            bgcolor: 0
+            show_topbar: default
+          options:
+            relativeDelay: false
+            rotaryActions: false
+            stepAutoProgress: true
+          feedbacks: []
+          steps:
+            "0":
+              action_sets:
+                down: []
+                up: []
+              options:
+                runWhileHeld: []
+      "3":
+        "0":
+          type: button
+          style:
+            text: ""
+            textExpression: false
+            size: auto
+            png64: null
+            alignment: center:center
+            pngalignment: center:center
+            color: 16777215
+            bgcolor: 0
+            show_topbar: default
+          options:
+            relativeDelay: false
+            rotaryActions: true
+            stepAutoProgress: true
+          feedbacks: []
+          steps:
+            "0":
+              action_sets:
+                down:
+                  - id: 6DSQWWmrfyR8YGKtd5Axw
+                    action: button_pressrelease_condition
+                    instance: internal
+                    options:
+                      variable: internal:custom_pincode_1
+                      op: eq
+                      value: $(internal:custom_pin_pos1)$(internal:custom_pin_pos2)$(internal:custom_pin_pos3)$(internal:custom_pin_pos4)
+                      location_target: text
+                      location_text: $(this:page)/4/0
+                      location_expression: concat($(this:page), '/', $(this:row), '/', $(this:column))
+                    delay: 0
+                  - id: dcG9HJrXHmg37fQfr-AZQ
+                    action: button_pressrelease_condition
+                    instance: internal
+                    options:
+                      variable: internal:custom_pincode_2
+                      op: eq
+                      value: $(internal:custom_pin_pos1)$(internal:custom_pin_pos2)$(internal:custom_pin_pos3)$(internal:custom_pin_pos4)
+                      location_target: text
+                      location_text: $(this:page)/4/1
+                      location_expression: concat($(this:page), '/', $(this:row), '/', $(this:column))
+                    delay: 0
+                    disabled: false
+                  - id: XUbC-a7rphiRcjUTLbEfx
+                    action: button_pressrelease_condition
+                    instance: internal
+                    options:
+                      variable: internal:custom_pincode_3
+                      op: eq
+                      value: $(internal:custom_pin_pos1)$(internal:custom_pin_pos2)$(internal:custom_pin_pos3)$(internal:custom_pin_pos4)
+                      location_target: text
+                      location_text: $(this:page)/4/2
+                      location_expression: concat($(this:page), '/', $(this:row), '/', $(this:column))
+                    delay: 0
+                    disabled: false
+                  - id: vjKWUAY5ErHxjGZze5ZpM
+                    action: button_pressrelease_condition
+                    instance: internal
+                    options:
+                      variable: internal:custom_pincode_4
+                      op: eq
+                      value: $(internal:custom_pin_pos1)$(internal:custom_pin_pos2)$(internal:custom_pin_pos3)$(internal:custom_pin_pos4)
+                      location_target: text
+                      location_text: $(this:page)/4/3
+                      location_expression: concat($(this:page), '/', $(this:row), '/', $(this:column))
+                    delay: 0
+                    disabled: false
+                up: []
+                rotate_left:
+                  - id: 1Y3z1B_jIgp8csNqlcRFX
+                    action: custom_variable_set_expression
+                    instance: internal
+                    options:
+                      name: pin_pos1
+                      expression: |-
+                        num = $(internal:custom_pin_pos1);
+                        num = num > 0 ? num - 1 : 9;
+                    delay: 0
+                rotate_right:
+                  - id: sHux0IFBSwovMzZN7xcaS
+                    action: custom_variable_set_expression
+                    instance: internal
+                    options:
+                      name: pin_pos1
+                      expression: |-
+                        num = $(internal:custom_pin_pos1);
+                        num = num < 9 ? num + 1 : 0;
+                    delay: 0
+              options:
+                runWhileHeld: []
+        "1":
+          type: button
+          style:
+            text: ""
+            textExpression: false
+            size: auto
+            png64: null
+            alignment: center:center
+            pngalignment: center:center
+            color: 16777215
+            bgcolor: 0
+            show_topbar: default
+          options:
+            relativeDelay: false
+            rotaryActions: true
+            stepAutoProgress: true
+          feedbacks: []
+          steps:
+            "0":
+              action_sets:
+                down:
+                  - id: klbn8LT9i-ecnEklwDZRv
+                    action: button_pressrelease_condition
+                    instance: internal
+                    options:
+                      variable: internal:custom_pincode_1
+                      op: eq
+                      value: $(internal:custom_pin_pos1)$(internal:custom_pin_pos2)$(internal:custom_pin_pos3)$(internal:custom_pin_pos4)
+                      location_target: text
+                      location_text: $(this:page)/4/0
+                      location_expression: concat($(this:page), '/', $(this:row), '/', $(this:column))
+                      force: true
+                    delay: 0
+                  - id: pJfTQkvfCkka4SG0ET3Cd
+                    action: button_pressrelease_condition
+                    instance: internal
+                    options:
+                      variable: internal:custom_pincode_2
+                      op: eq
+                      value: $(internal:custom_pin_pos1)$(internal:custom_pin_pos2)$(internal:custom_pin_pos3)$(internal:custom_pin_pos4)
+                      location_target: text
+                      location_text: $(this:page)/4/1
+                      location_expression: concat($(this:page), '/', $(this:row), '/', $(this:column))
+                      force: true
+                    delay: 0
+                  - id: Z_bmtssGx80TZiecLN78w
+                    action: button_pressrelease_condition
+                    instance: internal
+                    options:
+                      variable: internal:custom_pincode_3
+                      op: eq
+                      value: $(internal:custom_pin_pos1)$(internal:custom_pin_pos2)$(internal:custom_pin_pos3)$(internal:custom_pin_pos4)
+                      location_target: text
+                      location_text: $(this:page)/4/2
+                      location_expression: concat($(this:page), '/', $(this:row), '/', $(this:column))
+                      force: true
+                    delay: 0
+                  - id: MHpySxx-UuIIq35zmcUrK
+                    action: button_pressrelease_condition
+                    instance: internal
+                    options:
+                      variable: internal:custom_pincode_4
+                      op: eq
+                      value: $(internal:custom_pin_pos1)$(internal:custom_pin_pos2)$(internal:custom_pin_pos3)$(internal:custom_pin_pos4)
+                      location_target: text
+                      location_text: $(this:page)/4/3
+                      location_expression: concat($(this:page), '/', $(this:row), '/', $(this:column))
+                      force: true
+                    delay: 0
+                up: []
+                rotate_left:
+                  - id: xVGAfXqXax_8ZxmKnWqe8
+                    action: custom_variable_set_expression
+                    instance: internal
+                    options:
+                      name: pin_pos2
+                      expression: |-
+                        num = $(internal:custom_pin_pos2);
+                        num = num > 0 ? num - 1 : 9;
+                    delay: 0
+                rotate_right:
+                  - id: beb-j8-Mp2M9_LkaiC9Nc
+                    action: custom_variable_set_expression
+                    instance: internal
+                    options:
+                      name: pin_pos2
+                      expression: |-
+                        num = $(internal:custom_pin_pos2);
+                        num = num < 9 ? num + 1 : 0;
+                    delay: 0
+              options:
+                runWhileHeld: []
+        "2":
+          type: button
+          style:
+            text: ""
+            textExpression: false
+            size: auto
+            png64: null
+            alignment: center:center
+            pngalignment: center:center
+            color: 16777215
+            bgcolor: 0
+            show_topbar: default
+          options:
+            relativeDelay: false
+            rotaryActions: true
+            stepAutoProgress: true
+          feedbacks: []
+          steps:
+            "0":
+              action_sets:
+                down:
+                  - id: 0EF4vIovcye0QCsFVXT2O
+                    action: button_pressrelease_condition
+                    instance: internal
+                    options:
+                      variable: internal:custom_pincode_1
+                      op: eq
+                      value: $(internal:custom_pin_pos1)$(internal:custom_pin_pos2)$(internal:custom_pin_pos3)$(internal:custom_pin_pos4)
+                      location_target: text
+                      location_text: $(this:page)/4/0
+                      location_expression: concat($(this:page), '/', $(this:row), '/', $(this:column))
+                      force: true
+                    delay: 0
+                  - id: fOBHLRSJdSiXxcR3F7kRR
+                    action: button_pressrelease_condition
+                    instance: internal
+                    options:
+                      variable: internal:custom_pincode_2
+                      op: eq
+                      value: $(internal:custom_pin_pos1)$(internal:custom_pin_pos2)$(internal:custom_pin_pos3)$(internal:custom_pin_pos4)
+                      location_target: text
+                      location_text: $(this:page)/4/1
+                      location_expression: concat($(this:page), '/', $(this:row), '/', $(this:column))
+                      force: true
+                    delay: 0
+                  - id: XW6Ey7Ct7IlbxC5O2J1R3
+                    action: button_pressrelease_condition
+                    instance: internal
+                    options:
+                      variable: internal:custom_pincode_3
+                      op: eq
+                      value: $(internal:custom_pin_pos1)$(internal:custom_pin_pos2)$(internal:custom_pin_pos3)$(internal:custom_pin_pos4)
+                      location_target: text
+                      location_text: $(this:page)/4/2
+                      location_expression: concat($(this:page), '/', $(this:row), '/', $(this:column))
+                      force: true
+                    delay: 0
+                  - id: OziaacmMHN2bpp0wJ047y
+                    action: button_pressrelease_condition
+                    instance: internal
+                    options:
+                      variable: internal:custom_pincode_4
+                      op: eq
+                      value: $(internal:custom_pin_pos1)$(internal:custom_pin_pos2)$(internal:custom_pin_pos3)$(internal:custom_pin_pos4)
+                      location_target: text
+                      location_text: $(this:page)/4/3
+                      location_expression: concat($(this:page), '/', $(this:row), '/', $(this:column))
+                      force: true
+                    delay: 0
+                up: []
+                rotate_left:
+                  - id: Q3MugIDe-rRmT22wd-9G1
+                    action: custom_variable_set_expression
+                    instance: internal
+                    options:
+                      name: pin_pos3
+                      expression: |-
+                        num = $(internal:custom_pin_pos3);
+                        num = num > 0 ? num - 1 : 9;
+                    delay: 0
+                rotate_right:
+                  - id: ZQ2RTC8JLLRofnTjvAkRM
+                    action: custom_variable_set_expression
+                    instance: internal
+                    options:
+                      name: pin_pos3
+                      expression: |-
+                        num = $(internal:custom_pin_pos3);
+                        num = num < 9 ? num + 1 : 0;
+                    delay: 0
+              options:
+                runWhileHeld: []
+        "3":
+          type: button
+          style:
+            text: ""
+            textExpression: false
+            size: auto
+            png64: null
+            alignment: center:center
+            pngalignment: center:center
+            color: 16777215
+            bgcolor: 0
+            show_topbar: default
+          options:
+            relativeDelay: false
+            rotaryActions: true
+            stepAutoProgress: true
+          feedbacks: []
+          steps:
+            "0":
+              action_sets:
+                down:
+                  - id: h2f3lBpqTl_SgH688EZq3
+                    action: button_pressrelease_condition
+                    instance: internal
+                    options:
+                      variable: internal:custom_pincode_1
+                      op: eq
+                      value: $(internal:custom_pin_pos1)$(internal:custom_pin_pos2)$(internal:custom_pin_pos3)$(internal:custom_pin_pos4)
+                      location_target: text
+                      location_text: $(this:page)/4/0
+                      location_expression: concat($(this:page), '/', $(this:row), '/', $(this:column))
+                      force: true
+                    delay: 0
+                  - id: tZpA8S1oQOl5y1IV0gqi5
+                    action: button_pressrelease_condition
+                    instance: internal
+                    options:
+                      variable: internal:custom_pincode_2
+                      op: eq
+                      value: $(internal:custom_pin_pos1)$(internal:custom_pin_pos2)$(internal:custom_pin_pos3)$(internal:custom_pin_pos4)
+                      location_target: text
+                      location_text: $(this:page)/4/1
+                      location_expression: concat($(this:page), '/', $(this:row), '/', $(this:column))
+                      force: true
+                    delay: 0
+                  - id: QWcB3hnxL4wEkKE_Jzkz9
+                    action: button_pressrelease_condition
+                    instance: internal
+                    options:
+                      variable: internal:custom_pincode_3
+                      op: eq
+                      value: $(internal:custom_pin_pos1)$(internal:custom_pin_pos2)$(internal:custom_pin_pos3)$(internal:custom_pin_pos4)
+                      location_target: text
+                      location_text: $(this:page)/4/2
+                      location_expression: concat($(this:page), '/', $(this:row), '/', $(this:column))
+                      force: true
+                    delay: 0
+                  - id: AsKPRugRznjtsda565Nbt
+                    action: button_pressrelease_condition
+                    instance: internal
+                    options:
+                      variable: internal:custom_pincode_4
+                      op: eq
+                      value: $(internal:custom_pin_pos1)$(internal:custom_pin_pos2)$(internal:custom_pin_pos3)$(internal:custom_pin_pos4)
+                      location_target: text
+                      location_text: $(this:page)/4/3
+                      location_expression: concat($(this:page), '/', $(this:row), '/', $(this:column))
+                      force: true
+                    delay: 0
+                up: []
+                rotate_left:
+                  - id: 3REsNlFBR5Devy8eFN86A
+                    action: custom_variable_set_expression
+                    instance: internal
+                    options:
+                      name: pin_pos4
+                      expression: |-
+                        num = $(internal:custom_pin_pos4);
+                        num = num > 0 ? num - 1 : 9;
+                    delay: 0
+                rotate_right:
+                  - id: cf9fFfCLGfbwUeNEYzTXn
+                    action: custom_variable_set_expression
+                    instance: internal
+                    options:
+                      name: pin_pos4
+                      expression: |-
+                        num = $(internal:custom_pin_pos4);
+                        num = num < 9 ? num + 1 : 0;
+                    delay: 0
+              options:
+                runWhileHeld: []
+      "4":
+        "0":
+          type: button
+          style:
+            text: "SET TO PAGE: $(internal:custom_pincode_1_page)"
+            textExpression: false
+            size: auto
+            png64: null
+            alignment: center:center
+            pngalignment: center:center
+            color: 16777215
+            bgcolor: 0
+            show_topbar: default
+          options:
+            relativeDelay: false
+            rotaryActions: false
+            stepAutoProgress: true
+          feedbacks: []
+          steps:
+            "0":
+              action_sets:
+                down:
+                  - id: BdvrcCA_EHHnQ28dz8RqI
+                    action: set_page
+                    instance: internal
+                    options:
+                      controller_from_variable: false
+                      controller: self
+                      controller_variable: self
+                      page_from_variable: true
+                      page: 0
+                      page_variable: $(internal:custom_pincode_1_page)
+                    delay: 0
+                up: []
+              options:
+                runWhileHeld: []
+        "1":
+          type: button
+          style:
+            text: "SET TO PAGE: $(internal:custom_pincode_2_page)"
+            textExpression: false
+            size: auto
+            png64: null
+            alignment: center:center
+            pngalignment: center:center
+            color: 16777215
+            bgcolor: 0
+            show_topbar: default
+          options:
+            relativeDelay: false
+            rotaryActions: false
+            stepAutoProgress: true
+          feedbacks: []
+          steps:
+            "0":
+              action_sets:
+                down:
+                  - id: 22O6n5Oj8eZUUbUlbk5Hm
+                    action: set_page
+                    instance: internal
+                    options:
+                      controller_from_variable: false
+                      controller: self
+                      controller_variable: self
+                      page_from_variable: true
+                      page: 0
+                      page_variable: $(internal:custom_pincode_2_page)
+                    delay: 0
+                up: []
+              options:
+                runWhileHeld: []
+        "2":
+          type: button
+          style:
+            text: "SET TO PAGE: $(internal:custom_pincode_3_page)"
+            textExpression: false
+            size: auto
+            png64: null
+            alignment: center:center
+            pngalignment: center:center
+            color: 16777215
+            bgcolor: 0
+            show_topbar: default
+          options:
+            relativeDelay: false
+            rotaryActions: false
+            stepAutoProgress: true
+          feedbacks: []
+          steps:
+            "0":
+              action_sets:
+                down:
+                  - id: whQZ1rniesFEfP41nT0nP
+                    action: set_page
+                    instance: internal
+                    options:
+                      controller_from_variable: false
+                      controller: self
+                      controller_variable: self
+                      page_from_variable: true
+                      page: 0
+                      page_variable: $(internal:custom_pincode_3_page)
+                    delay: 0
+                up: []
+              options:
+                runWhileHeld: []
+        "3":
+          type: button
+          style:
+            text: "SET TO PAGE: $(internal:custom_pincode_4_page)"
+            textExpression: false
+            size: auto
+            png64: null
+            alignment: center:center
+            pngalignment: center:center
+            color: 16777215
+            bgcolor: 0
+            show_topbar: default
+          options:
+            relativeDelay: false
+            rotaryActions: false
+            stepAutoProgress: true
+          feedbacks: []
+          steps:
+            "0":
+              action_sets:
+                down:
+                  - id: y5wffpT2NQbL4QyeACWqL
+                    action: set_page
+                    instance: internal
+                    options:
+                      controller_from_variable: false
+                      controller: self
+                      controller_variable: self
+                      page_from_variable: true
+                      page: 0
+                      page_variable: $(internal:custom_pincode_4_page)
+                    delay: 0
+                up: []
+              options:
+                runWhileHeld: []
+      "5":
+        "0":
+          type: button
+          style:
+            text: $(internal:custom_pincode_1)
+            textExpression: false
+            size: "24"
+            png64: null
+            alignment: center:center
+            pngalignment: center:center
+            color: 16777215
+            bgcolor: 0
+            show_topbar: default
+          options:
+            relativeDelay: false
+            rotaryActions: false
+            stepAutoProgress: true
+          feedbacks: []
+          steps:
+            "0":
+              action_sets:
+                down: []
+                up: []
+              options:
+                runWhileHeld: []
+        "1":
+          type: button
+          style:
+            text: $(internal:custom_pincode_2)
+            textExpression: false
+            size: "24"
+            png64: null
+            alignment: center:center
+            pngalignment: center:center
+            color: 16777215
+            bgcolor: 0
+            show_topbar: default
+          options:
+            relativeDelay: false
+            rotaryActions: false
+            stepAutoProgress: true
+          feedbacks: []
+          steps:
+            "0":
+              action_sets:
+                down: []
+                up: []
+              options:
+                runWhileHeld: []
+        "2":
+          type: button
+          style:
+            text: $(internal:custom_pincode_3)
+            textExpression: false
+            size: "24"
+            png64: null
+            alignment: center:center
+            pngalignment: center:center
+            color: 16777215
+            bgcolor: 0
+            show_topbar: default
+          options:
+            relativeDelay: false
+            rotaryActions: false
+            stepAutoProgress: true
+          feedbacks: []
+          steps:
+            "0":
+              action_sets:
+                down: []
+                up: []
+              options:
+                runWhileHeld: []
+        "3":
+          type: button
+          style:
+            text: $(internal:custom_pincode_4)
+            textExpression: false
+            size: "24"
+            png64: null
+            alignment: center:center
+            pngalignment: center:center
+            color: 16777215
+            bgcolor: 0
+            show_topbar: default
+          options:
+            relativeDelay: false
+            rotaryActions: false
+            stepAutoProgress: true
+          feedbacks: []
+          steps:
+            "0":
+              action_sets:
+                down: []
+                up: []
+              options:
+                runWhileHeld: []
+    gridSize: *a1
+  "6":
+    name: PAGE
+    controls:
+      "0":
+        "0":
+          type: pageup
+      "1":
+        "0":
+          type: pagenum
+      "2":
+        "0":
+          type: pagedown
+    gridSize: *a1
+  "7":
+    name: PAGE
+    controls:
+      "0":
+        "0":
+          type: pageup
+      "1":
+        "0":
+          type: pagenum
+      "2":
+        "0":
+          type: pagedown
+    gridSize: *a1
+  "8":
+    name: PAGE
+    controls:
+      "0":
+        "0":
+          type: pageup
+      "1":
+        "0":
+          type: pagenum
+      "2":
+        "0":
+          type: pagedown
+    gridSize: *a1
+  "9":
+    name: PAGE
+    controls:
+      "0":
+        "0":
+          type: pageup
+      "1":
+        "0":
+          type: pagenum
+      "2":
+        "0":
+          type: pagedown
+    gridSize: *a1
+  "10":
+    name: PAGE
+    controls:
+      "0":
+        "0":
+          type: pageup
+      "1":
+        "0":
+          type: pagenum
+      "2":
+        "0":
+          type: pagedown
+    gridSize: *a1
+custom_variables:
+  pin_pos1:
+    description: A custom variable
+    defaultValue: "0"
+    persistCurrentValue: false
+    sortOrder: 0
+  pin_pos2:
+    description: A custom variable
+    defaultValue: "0"
+    persistCurrentValue: false
+    sortOrder: 1
+  pin_pos3:
+    description: A custom variable
+    defaultValue: "0"
+    persistCurrentValue: false
+    sortOrder: 2
+  pin_pos4:
+    description: A custom variable
+    defaultValue: "0"
+    persistCurrentValue: false
+    sortOrder: 3
+  pincode_1:
+    description: A custom variable
+    defaultValue: "1234"
+    persistCurrentValue: false
+    sortOrder: 4
+  pincode_1_page:
+    description: A custom variable
+    defaultValue: "1"
+    persistCurrentValue: false
+    sortOrder: 5
+  pincode_2:
+    description: A custom variable
+    defaultValue: "2134"
+    persistCurrentValue: false
+    sortOrder: 6
+  pincode_2_page:
+    description: A custom variable
+    defaultValue: "2"
+    persistCurrentValue: false
+    sortOrder: 7
+  pincode_3:
+    description: A custom variable
+    defaultValue: "3134"
+    persistCurrentValue: false
+    sortOrder: 8
+  pincode_3_page:
+    description: A custom variable
+    defaultValue: "3"
+    persistCurrentValue: false
+    sortOrder: 9
+  pincode_4:
+    description: A custom variable
+    defaultValue: "4134"
+    persistCurrentValue: false
+    sortOrder: 10
+  pincode_4_page:
+    description: A custom variable
+    defaultValue: "4"
+    persistCurrentValue: false
+    sortOrder: 11
+instances: {}
